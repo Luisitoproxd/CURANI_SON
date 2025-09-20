@@ -5,7 +5,7 @@
 
 **Versión:** 1.3 
 **Desarrollado por:** [Nica Tech]  
-**Fecha de publicación:** 8 Junio de 2025
+**Fecha de publicación:** 20 Septiembre de 2025
 
 ---
 
@@ -45,4 +45,5 @@ Curaní-Son es una aplicación desarrollada en Unity con el propósito de enseñ
 1. Descargar el archivo `.apk` encontrada en la play store de google o escanea el QR con la app.  
 2. Activar "Fuentes desconocidas" en configuración en caso de escanear el QR.  
 3. Instalar y abrir el juego.
+
 
