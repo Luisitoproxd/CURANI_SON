@@ -9717,7 +9717,7 @@ CanvasGroup:
   m_Enabled: 1
   m_Alpha: 0
   m_Interactable: 1
-  m_BlocksRaycasts: 1
+  m_BlocksRaycasts: 0
   m_IgnoreParentGroups: 0
 --- !u!114 &1037646384
 MonoBehaviour:
@@ -17104,8 +17104,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 89.857}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 535.5491, y: -20.6802}
-  m_SizeDelta: {x: 961.4607, y: 1123.5085}
+  m_AnchoredPosition: {x: 318, y: 889}
+  m_SizeDelta: {x: 3001.1616, y: 3506.9873}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2034485317
 MonoBehaviour:
