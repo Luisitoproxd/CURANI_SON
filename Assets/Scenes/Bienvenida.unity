@@ -328,8 +328,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0.053}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -25.377386, y: 2074.7075}
-  m_SizeDelta: {x: 1619.439, y: 269.3254}
+  m_AnchoredPosition: {x: -14, y: 2243}
+  m_SizeDelta: {x: 1584.2236, y: 274.1377}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &41801518
 MonoBehaviour:
@@ -353,7 +353,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 200
+    m_FontSize: 180
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 0
@@ -648,18 +648,6 @@ MonoBehaviour:
         m_MethodName: MostrarConBoton
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 383893213}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-      - m_Target: {fileID: 1488666209}
-        m_TargetAssemblyTypeName: VoidVisible, Assembly-CSharp
-        m_MethodName: MostrarConBoton
-        m_Mode: 2
-        m_Arguments:
           m_ObjectArgument: {fileID: 289975901}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
           m_IntArgument: 0
@@ -939,18 +927,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 1131260248}
-        m_TargetAssemblyTypeName: VoidHide, Assembly-CSharp
-        m_MethodName: OcultarConBoton
-        m_Mode: 2
-        m_Arguments:
-          m_ObjectArgument: {fileID: 383893213}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
       - m_Target: {fileID: 1216329759}
         m_TargetAssemblyTypeName: AniDelay, Assembly-CSharp
         m_MethodName: PlayWithDelay
@@ -981,18 +957,6 @@ MonoBehaviour:
         m_Mode: 2
         m_Arguments:
           m_ObjectArgument: {fileID: 426041791}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-      - m_Target: {fileID: 1615510194}
-        m_TargetAssemblyTypeName: VoidVisible, Assembly-CSharp
-        m_MethodName: MostrarConBoton
-        m_Mode: 2
-        m_Arguments:
-          m_ObjectArgument: {fileID: 383893213}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
@@ -1401,7 +1365,7 @@ MonoBehaviour:
         m_MethodName: OcultarConBoton
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 383893213}
+          m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
@@ -2169,7 +2133,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -177, y: -1584.0225}
+  m_AnchoredPosition: {x: -193, y: -1833}
   m_SizeDelta: {x: 113.8952, y: 113.8952}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!95 &133766642
@@ -2357,8 +2321,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0.053}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 17.964638, y: 825.4407}
-  m_SizeDelta: {x: 1845.7063, y: 457.7105}
+  m_AnchoredPosition: {x: -12, y: 830}
+  m_SizeDelta: {x: 1708.9995, y: 365.2471}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &154483170
 MonoBehaviour:
@@ -2408,7 +2372,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 100
+    m_FontSize: 140
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 0
@@ -2838,8 +2802,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 6.7945385, y: 54.557495}
-  m_SizeDelta: {x: 217.55, y: 249.961}
+  m_AnchoredPosition: {x: -31, y: 117}
+  m_SizeDelta: {x: 427.2695, y: 167.5327}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &266894781
 MonoBehaviour:
@@ -3023,18 +2987,6 @@ MonoBehaviour:
         m_Mode: 2
         m_Arguments:
           m_ObjectArgument: {fileID: 289975901}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-      - m_Target: {fileID: 1488666209}
-        m_TargetAssemblyTypeName: VoidVisible, Assembly-CSharp
-        m_MethodName: MostrarConBoton
-        m_Mode: 2
-        m_Arguments:
-          m_ObjectArgument: {fileID: 383893213}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
@@ -3285,7 +3237,7 @@ MonoBehaviour:
     m_BestFit: 0
     m_MinSize: 0
     m_MaxSize: 202
-    m_Alignment: 1
+    m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
@@ -3337,7 +3289,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -6.8773193, y: 768.77356}
+  m_AnchoredPosition: {x: -23, y: 850}
   m_SizeDelta: {x: 1743.7, y: 288.2384}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!225 &289975903
@@ -4295,18 +4247,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 1615510194}
-        m_TargetAssemblyTypeName: VoidVisible, Assembly-CSharp
-        m_MethodName: MostrarConBoton
-        m_Mode: 2
-        m_Arguments:
-          m_ObjectArgument: {fileID: 383893213}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
       - m_Target: {fileID: 1131260248}
         m_TargetAssemblyTypeName: VoidHide, Assembly-CSharp
         m_MethodName: OcultarConBoton
@@ -4899,7 +4839,7 @@ MonoBehaviour:
         m_MethodName: OcultarConBoton
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 383893213}
+          m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
@@ -5409,284 +5349,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 383141241}
   m_CullTransparentMesh: 1
---- !u!1 &383893213
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 383893214}
-  - component: {fileID: 383893218}
-  - component: {fileID: 383893217}
-  - component: {fileID: 383893216}
-  - component: {fileID: 383893215}
-  m_Layer: 5
-  m_Name: II invitado
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &383893214
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 383893213}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 1.9323919}
-  m_LocalScale: {x: 0.66875, y: 0.66875, z: 0.66875}
-  m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 1391661876}
-  m_Father: {fileID: 426041792}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -16.143555, y: 1042.726}
-  m_SizeDelta: {x: 1743.7, y: 288.2384}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!225 &383893215
-CanvasGroup:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 383893213}
-  m_Enabled: 1
-  m_Alpha: 0
-  m_Interactable: 1
-  m_BlocksRaycasts: 1
-  m_IgnoreParentGroups: 0
---- !u!114 &383893216
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 383893213}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Navigation:
-    m_Mode: 3
-    m_WrapAround: 0
-    m_SelectOnUp: {fileID: 0}
-    m_SelectOnDown: {fileID: 0}
-    m_SelectOnLeft: {fileID: 0}
-    m_SelectOnRight: {fileID: 0}
-  m_Transition: 1
-  m_Colors:
-    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
-    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
-    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
-    m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
-    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
-    m_ColorMultiplier: 1
-    m_FadeDuration: 0.1
-  m_SpriteState:
-    m_HighlightedSprite: {fileID: 0}
-    m_PressedSprite: {fileID: 0}
-    m_SelectedSprite: {fileID: 0}
-    m_DisabledSprite: {fileID: 0}
-  m_AnimationTriggers:
-    m_NormalTrigger: Normal
-    m_HighlightedTrigger: Highlighted
-    m_PressedTrigger: Pressed
-    m_SelectedTrigger: Selected
-    m_DisabledTrigger: Disabled
-  m_Interactable: 1
-  m_TargetGraphic: {fileID: 383893217}
-  m_OnClick:
-    m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 1615510194}
-        m_TargetAssemblyTypeName: VoidVisible, Assembly-CSharp
-        m_MethodName: MostrarConBoton
-        m_Mode: 2
-        m_Arguments:
-          m_ObjectArgument: {fileID: 1543439929}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-      - m_Target: {fileID: 1615510194}
-        m_TargetAssemblyTypeName: VoidVisible, Assembly-CSharp
-        m_MethodName: MostrarConBoton
-        m_Mode: 2
-        m_Arguments:
-          m_ObjectArgument: {fileID: 1349450886}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-      - m_Target: {fileID: 1615510194}
-        m_TargetAssemblyTypeName: VoidVisible, Assembly-CSharp
-        m_MethodName: MostrarConBoton
-        m_Mode: 2
-        m_Arguments:
-          m_ObjectArgument: {fileID: 368265942}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-      - m_Target: {fileID: 1615510194}
-        m_TargetAssemblyTypeName: VoidVisible, Assembly-CSharp
-        m_MethodName: MostrarConBoton
-        m_Mode: 2
-        m_Arguments:
-          m_ObjectArgument: {fileID: 2021667089}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-      - m_Target: {fileID: 114867635}
-        m_TargetAssemblyTypeName: VoidVisible, Assembly-CSharp
-        m_MethodName: MostrarConBoton
-        m_Mode: 2
-        m_Arguments:
-          m_ObjectArgument: {fileID: 1377647145}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-      - m_Target: {fileID: 1488666209}
-        m_TargetAssemblyTypeName: VoidVisible, Assembly-CSharp
-        m_MethodName: MostrarConBoton
-        m_Mode: 2
-        m_Arguments:
-          m_ObjectArgument: {fileID: 277579416}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-      - m_Target: {fileID: 1488666209}
-        m_TargetAssemblyTypeName: VoidVisible, Assembly-CSharp
-        m_MethodName: MostrarConBoton
-        m_Mode: 2
-        m_Arguments:
-          m_ObjectArgument: {fileID: 8536144}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-      - m_Target: {fileID: 1261119949}
-        m_TargetAssemblyTypeName: VoidVisible, Assembly-CSharp
-        m_MethodName: MostrarConBoton
-        m_Mode: 2
-        m_Arguments:
-          m_ObjectArgument: {fileID: 1699849806}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-      - m_Target: {fileID: 1261119949}
-        m_TargetAssemblyTypeName: VoidVisible, Assembly-CSharp
-        m_MethodName: MostrarConBoton
-        m_Mode: 2
-        m_Arguments:
-          m_ObjectArgument: {fileID: 1707405824}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-      - m_Target: {fileID: 1261119949}
-        m_TargetAssemblyTypeName: VoidVisible, Assembly-CSharp
-        m_MethodName: MostrarConBoton
-        m_Mode: 2
-        m_Arguments:
-          m_ObjectArgument: {fileID: 1282660302}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-      - m_Target: {fileID: 1131260248}
-        m_TargetAssemblyTypeName: VoidHide, Assembly-CSharp
-        m_MethodName: OcultarConBoton
-        m_Mode: 2
-        m_Arguments:
-          m_ObjectArgument: {fileID: 426041791}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-      - m_Target: {fileID: 1131260248}
-        m_TargetAssemblyTypeName: VoidHide, Assembly-CSharp
-        m_MethodName: OcultarConBoton
-        m_Mode: 2
-        m_Arguments:
-          m_ObjectArgument: {fileID: 2115579116}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
---- !u!114 &383893217
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 383893213}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 0.5529412, g: 0.16470589, b: 0.16470589, a: 1}
-  m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_Sprite: {fileID: 658415019417747127, guid: b2bc1aac0c858ac48ad4a21b14bd9b44, type: 3}
-  m_Type: 0
-  m_PreserveAspect: 0
-  m_FillCenter: 1
-  m_FillMethod: 4
-  m_FillAmount: 1
-  m_FillClockwise: 1
-  m_FillOrigin: 0
-  m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1
---- !u!222 &383893218
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 383893213}
-  m_CullTransparentMesh: 1
 --- !u!1 &417723101
 GameObject:
   m_ObjectHideFlags: 0
@@ -5813,7 +5475,6 @@ Transform:
   m_LocalScale: {x: 1.4953271, y: 1.4953271, z: 1.4953271}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 383893214}
   - {fileID: 289975902}
   - {fileID: 417723102}
   - {fileID: 1909635845}
@@ -9307,7 +8968,7 @@ CanvasGroup:
   m_Enabled: 1
   m_Alpha: 0
   m_Interactable: 1
-  m_BlocksRaycasts: 1
+  m_BlocksRaycasts: 0
   m_IgnoreParentGroups: 0
 --- !u!114 &952751339
 MonoBehaviour:
@@ -9761,7 +9422,7 @@ CanvasGroup:
   m_Enabled: 1
   m_Alpha: 0
   m_Interactable: 1
-  m_BlocksRaycasts: 1
+  m_BlocksRaycasts: 0
   m_IgnoreParentGroups: 0
 --- !u!114 &1023348571
 MonoBehaviour:
@@ -10473,10 +10134,10 @@ Transform:
   m_LocalScale: {x: 1.4953271, y: 1.4953271, z: 1.4953271}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 266894780}
   - {fileID: 41801516}
   - {fileID: 154483169}
   - {fileID: 1085612853}
+  - {fileID: 266894780}
   m_Father: {fileID: 570577104}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1066284053
@@ -10594,8 +10255,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0.053}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 6.7945747, y: 487.94208}
-  m_SizeDelta: {x: 1845.7063, y: 457.7105}
+  m_AnchoredPosition: {x: -7.9218, y: 503.1396}
+  m_SizeDelta: {x: 1642.2649, y: 513.7}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1085612854
 MonoBehaviour:
@@ -10645,7 +10306,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 100
+    m_FontSize: 110
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 0
@@ -12285,7 +11946,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 542.8584, y: 17.134033}
+  m_AnchoredPosition: {x: 472.49698, y: 1276.624}
   m_SizeDelta: {x: 57.1235, y: 84.6724}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!225 &1348412446
@@ -12445,7 +12106,7 @@ MonoBehaviour:
         m_MethodName: OcultarConBoton
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 383893213}
+          m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
@@ -13074,87 +12735,6 @@ CanvasGroup:
   m_Interactable: 1
   m_BlocksRaycasts: 0
   m_IgnoreParentGroups: 0
---- !u!1 &1391661875
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1391661876}
-  - component: {fileID: 1391661878}
-  - component: {fileID: 1391661877}
-  m_Layer: 5
-  m_Name: Text (Legacy)
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &1391661876
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1391661875}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 383893214}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &1391661877
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1391661875}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
-  m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 140
-    m_FontStyle: 0
-    m_BestFit: 0
-    m_MinSize: 0
-    m_MaxSize: 140
-    m_Alignment: 4
-    m_AlignByGeometry: 0
-    m_RichText: 1
-    m_HorizontalOverflow: 0
-    m_VerticalOverflow: 0
-    m_LineSpacing: 1
-  m_Text: 'Explorar como visitante
-
-'
---- !u!222 &1391661878
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1391661875}
-  m_CullTransparentMesh: 1
 --- !u!1 &1396350873
 GameObject:
   m_ObjectHideFlags: 0
@@ -13598,7 +13178,7 @@ MonoBehaviour:
         m_MethodName: OcultarConBoton
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 383893213}
+          m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
@@ -15138,7 +14718,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 155.87901, y: -390.49002}
+  m_AnchoredPosition: {x: 195.43, y: -348}
   m_SizeDelta: {x: 191.9626, y: 191.9626}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!225 &1650032625
@@ -16641,18 +16221,6 @@ MonoBehaviour:
         m_MethodName: OcultarConBoton
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 383893213}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-      - m_Target: {fileID: 1131260248}
-        m_TargetAssemblyTypeName: VoidHide, Assembly-CSharp
-        m_MethodName: OcultarConBoton
-        m_Mode: 2
-        m_Arguments:
           m_ObjectArgument: {fileID: 289975901}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
           m_IntArgument: 0
@@ -17108,7 +16676,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -158.63858, y: -390.49002}
+  m_AnchoredPosition: {x: -233.17, y: -288}
   m_SizeDelta: {x: 191.9626, y: 191.9626}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!225 &1967644295
@@ -17447,8 +17015,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -74, y: 1611}
-  m_SizeDelta: {x: 1681.5, y: 703.98}
+  m_AnchoredPosition: {x: -70.43005, y: 1611}
+  m_SizeDelta: {x: 1692.1763, y: 703.98}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2021667091
 MonoBehaviour:
@@ -17536,8 +17104,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 89.857}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1181.1487, y: 556.61414}
-  m_SizeDelta: {x: 3056.669, y: 3713.4385}
+  m_AnchoredPosition: {x: 535.5491, y: -20.6802}
+  m_SizeDelta: {x: 961.4607, y: 1123.5085}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2034485317
 MonoBehaviour:
@@ -17741,8 +17309,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.000030517578, y: 233.42688}
-  m_SizeDelta: {x: 1687.7, y: 1687.652}
+  m_AnchoredPosition: {x: -0.000045492, y: 125}
+  m_SizeDelta: {x: 2217, y: 2123.9224}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2115579118
 MonoBehaviour:
